@@ -22,3 +22,8 @@
 5. Run `php artisan serve`
 6. Access UI: `http://localhost:8000/user-form`
 7. Access API: via Postman (`/api/users`)
+
+## Postmen Testing 
+please add in Header of API
+Key:    Accept  
+Value:  application/json
