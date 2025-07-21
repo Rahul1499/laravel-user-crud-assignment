@@ -24,7 +24,7 @@
 7. Access API: via Postman (`/api/users`)
 
 ## Postmen Testing 
-please add in Header of API
+When testing API endpoints in Postman, make sure to add the following header:
 
 Key:    Accept  
 Value:  application/json
